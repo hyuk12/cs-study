@@ -18,7 +18,7 @@
 
 <br>
 
-![하드웨어.drawio.svg](image%2F%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4.drawio.svg)
+![하드웨어.drawio.svg](https://github.com/hyuk12/cs-study/blob/main/image/하드웨어.drawio.svg)
 
 
 > 하드웨어의 모습입니다. <br>
